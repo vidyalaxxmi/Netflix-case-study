@@ -19,17 +19,17 @@ The "Netflix Userbase Analysis" case study provides a deep dive into a synthetic
 
 ## Business Decisions:
 1. Optimized Subscription Offerings:
-  - Develop tailored subscription packages based on user preferences and revenue trends.
+    - Develop tailored subscription packages based on user preferences and revenue trends.
    - Promote the most popular subscription type to maximize revenue.
- - Enhance premium subscription model with additional benefits.
+    - Enhance premium subscription model with additional benefits.
 2. Improved User Experience:
-  - Enhance the streaming experience on the most used devices.
+    - Enhance the streaming experience on the most used devices.
    - Focus marketing efforts on the devices with the highest user engagement.
 3. Churn Mitigation:
-  - Implement strategies to reduce account churn and retain users.
+    - Implement strategies to reduce account churn and retain users.
    - Monitor inactive accounts for potential re-engagement campaigns.
 4. Geographic Expansion:
-  - Consider expanding services in countries with high revenue potential.
+    - Consider expanding services in countries with high revenue potential.
    - Target marketing efforts in regions with underutilized potential.
 
 ## Results:
